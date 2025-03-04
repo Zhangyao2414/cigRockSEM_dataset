@@ -20,8 +20,7 @@ The **CigRockSEM** dataset is a collection of rock scanning electron microscope 
 
 ## Acknowledgements
 The deep learning models used in this project are based on the following repositories:
-
-	•	[Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) by Milesial for U-Net implementation.
-	•	[pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception) by jfzhang95 for DeepLab v3+ Xception backbone implementation.
+- [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) by Milesial for U-Net implementation.
+- [pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception) by jfzhang95 for DeepLab v3+ Xception backbone implementation.
 
 These models have been adapted for rock SEM image segmentation tasks.
